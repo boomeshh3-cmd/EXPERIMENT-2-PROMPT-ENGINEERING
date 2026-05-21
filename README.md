@@ -1,4 +1,4 @@
-# EXP-2-PROMPT-ENGINEERING-
+[PE_EX2_BOOMESH.pdf](https://github.com/user-attachments/files/28087899/PE_EX2_BOOMESH.pdf)# EXP-2-PROMPT-ENGINEERING-
 
 ## Aim: 
 Comparative Analysis of different types of Prompting patterns and explain with Various Test Scenarios
@@ -11,5 +11,8 @@ Analyze the quality, accuracy, and depth of the generated responses.
 ## Algorithm:
 
 ## Output
+[Uploadin%PDF-1.4
+%���� ReportLab Generated PDF document (opensource)
+
 
 ## Result
