@@ -10,6 +10,10 @@ Analyze the quality, accuracy, and depth of the generated responses.
 
 ## Algorithm:
 
-## Output
+## O%PDF-1.4
+%���� ReportLab Generated PDF document (opensource)
+
+
+[PE_EX2_BOOMESH.pdf](https://github.com/user-attachments/files/28087963/PE_EX2_BOOMESH.pdf)
 
 ## Result
